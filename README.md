@@ -4,7 +4,7 @@
 
 * Desafio 2: Melhorar esse código usando o TypeScript;
 
-*Desafio 3: Identificar e corrigir os erros;
+* Desafio 3: Identificar e corrigir os erros;
 
 * Desafio 4: Terminar a seguinte aplicação:
     Um aplicativo que: 
